@@ -1,4 +1,4 @@
-import Nav from './components/nav/Nav.jsx';
+import Nav from './components/smallComponents/Nav.jsx';
 import Hero from './components/sections/Hero.jsx';
 import PopularProducts from './components/sections/PopularProducts.jsx';
 import SuperQuality from './components/sections/SuperQuality.jsx';
@@ -11,7 +11,7 @@ import Footer from './components/sections/Footer.jsx';
 const App = () => (
   <main className='relative'>
     <Nav />
-    <section className='xl:padding-1 wide:padding-r padding-b'>
+    <section className='xl:padding-l wide:padding-r padding-b'>
       <Hero />
     </section>
     <section className='padding'>

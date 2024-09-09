@@ -1,5 +1,5 @@
 import { hamburger } from '../../assets/icons/index.js';
-import { headerLogo } from '../../assets/images';
+import { headerLogo } from '../../assets/images/index.js';
 import { navLinks } from '../../constants/index.js';
 import React from 'react';
 
